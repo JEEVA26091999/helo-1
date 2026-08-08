@@ -1,0 +1,6 @@
+{
+  "name": "Helochat - Social & Short Video",
+  "description": "Helochat social app clone featuring multi-language personalized feeds, short video reels, quotes/status maker, trending topics, real-time social chat, AI status generator, and direct WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
